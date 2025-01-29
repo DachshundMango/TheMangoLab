@@ -2,7 +2,7 @@ from pathlib import Path
 from PIL import Image
 import pandas as pd
 import torchvision.transforms as transforms
-from a_metadataExtractor import process_directory_for_metadata
+from fake_image_detectation.a_metadata_extractor import process_directory_for_metadata
 
 def preprocess_image_from_metadata(input_dir, metadata_csv, output_dir):
   """

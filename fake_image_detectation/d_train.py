@@ -1,7 +1,7 @@
 import torch
 from torch.utils.data import DataLoader
 from torchvision.transforms import transforms
-from a_metadataExtractor import process_directory_for_metadata
+from fake_image_detectation.a_metadata_extractor import process_directory_for_metadata
 from b_preprocessing import preprocess_image_from_metadata
 from c_dataset import CustomDatasetFromMetadata
 
