@@ -1,0 +1,4 @@
+fake_image_detection/dataset/*
+spotfake_model/image/*
+!fake_image_detection/dataset/.gitkeep
+!spotfake_model/image/.gitkeep
