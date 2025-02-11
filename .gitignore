@@ -2,7 +2,10 @@ fake_image_detection/dataset/*
 spotfake_model/image/*
 mango_detector_prototype/dataset_dogsandcats_backup/*
 mango_detector_prototype/dataset_onlydogs/*
+mango_fake_vision/data/*
+
 !fake_image_detection/dataset/.gitkeep
 !spotfake_model/image/.gitkeep
 !mango_detector_prototype/dataset_dogsandcats_backup/.gitkeep
 !mango_detector_prototype/dataset_onlydogs/.gitkeep
+!mango_fake_vision/data/.gitkeep
